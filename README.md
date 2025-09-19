@@ -156,9 +156,7 @@ This project is licensed under the MIT License.
 
 Sumit Ojha
 
-📧 sumitojha2002@gmail.com
+📧 ojha61863@gmail.com
 
-🌐 GitHub Profile
 ---
 <p align="center"><strong>⭐️ Star this repo if you found it useful!</strong></p> 
----

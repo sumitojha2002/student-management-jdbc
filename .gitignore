@@ -1,0 +1,35 @@
+# ========== MAVEN ==========
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# ========== JAVA ==========
+*.class
+*.jar
+*.war
+*.ear
+
+# ========== LOG FILES ==========
+*.log
+
+# ========== OS JUNK ==========
+.DS_Store
+Thumbs.db
+
+# ========== ENV/SECRETS ==========
+.env
+*.properties
+src/main/resources/db.properties
+
+# ========== VS CODE ==========
+.vscode/
+
+# ========== IDEs ==========
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
